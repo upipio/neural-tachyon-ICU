@@ -1,0 +1,5 @@
+# Ignore output data and large files
+data_output/
+*.pkl
+mimictable.csv
+/step_4_start.pkl
