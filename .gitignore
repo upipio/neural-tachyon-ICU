@@ -1,5 +1,15 @@
 # Ignore output data and large files
 data_output/
 *.pkl
+*.mat
 mimictable.csv
-/step_4_start.pkl
+recqvi.csv
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
